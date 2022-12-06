@@ -1,4 +1,10 @@
 ### Hi there 👋
+### I'm kiddjsh
+### You've found my repositories
+
+- 👾 I do cool things with octocat
+- 🌫️ I'm currently learning git
+- 🍂 I'm currently working on a gitkraken project
 
 <!--
 **kiddjsh/kiddjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

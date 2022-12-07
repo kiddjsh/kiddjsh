@@ -2,7 +2,7 @@
 ### I'm kiddjsh, you found my respositories
 
 - 👾 I do cool things with octocat
-- 🍂 I'm currently working on a gitkraken project
+- 🍂 I'm currently working on personal projects
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 

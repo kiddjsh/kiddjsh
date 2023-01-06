@@ -9,6 +9,9 @@
 - 🌫️ AWS Certified Cloud Practitioner by AWS Testing & Certification
      - VALD Q8BLTC9DM24E1JCD
      - Issued 09FEB2022 Expires 09FEB2025 
+- 🌫️ Bachelor of Science in Computer Information Systems, Software Programming
+     - Graduate APR 2021 from DeVry University
+     - Magna Cum Laude 
 - 💬 How to reach me:
      - https://kiddjsh.xyz/ 
 

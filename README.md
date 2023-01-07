@@ -13,7 +13,7 @@
      - Graduate APR 2021 from DeVry University
      - Magna Cum Laude 
 - 💬 How to reach me:
-     - https://kiddjsh.xyz/ 
+     - https://www.kiddjsh.xyz 
 
 <!--
 **kiddjsh/kiddjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

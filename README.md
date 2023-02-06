@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm kiddjsh, you found my respositories
 
-
+![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh.png)
 
 - 👾 I do cool things with octocat
 - 🍂 I'm currently working on personal projects

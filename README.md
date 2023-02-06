@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I'm kiddjsh, you found my respositories
 
-![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh.png)
-
 - 👾 I do cool things with octocat
 - 🍂 I'm currently working on personal projects
 - 🌫️ Git Certified Specialist by GitKraken
@@ -16,6 +14,9 @@
      - Magna Cum Laude 
 - 💬 How to reach me:
      - https://www.kiddjsh.xyz 
+
+![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh.png)
+
 
 <!--
 **kiddjsh/kiddjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@
 - 💬 How to reach me:
      - https://www.kiddjsh.xyz 
 
-![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjshUNI.png)
+![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
 
 
 <!--

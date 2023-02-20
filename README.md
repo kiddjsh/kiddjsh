@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm kiddjsh, you found my respositories
+### I'm Joshua Kidder (user kiddjsh), you found my respositories
 
 - 👾 I do cool things with octocat
 - 🍂 I'm currently working on personal projects

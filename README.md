@@ -3,15 +3,18 @@
 
 - 👾 I do cool things with octocat
 - 🍂 I'm currently working on personal projects
-          - Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
-               - updating my exisiting warehouse inventory software application
-               - updating my existing call center phone software application 
+     - Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
+          - updating my exisiting warehouse inventory software application
+          - updating my existing call center phone software application 
      
-          - EDI Software Application based on the Xamarin Language
-          - Front End Development of my existing game design projects
-               - includes existing public github repositories,
-               - and personal private repositories later making public 
-          - Unity Platform Design 
+     - EDI Software Application based on the Xamarin Language
+     
+     - Front End Development of my existing game design projects
+          - includes existing public github repositories,
+          - and personal private repositories later making public
+           
+     - Unity Platform Design 
+     
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 

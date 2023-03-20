@@ -6,6 +6,7 @@
      - Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
           - updating my exisiting warehouse inventory software application
           - updating my existing call center phone software application 
+               - design & manufacture my own electronic board 
      
      - EDI Software Application based on the Xamarin Language
      

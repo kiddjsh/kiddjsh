@@ -6,7 +6,8 @@
      - Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
           - updating my exisiting warehouse inventory software application
           - updating my existing call center phone software application 
-      - EDI Software Application based on the Xamarin Language
+     
+     - EDI Software Application based on the Xamarin Language
       - Front End Development of my existing game design projects
           - includes existing public github repositories,
           - and personal private repositories later making public 

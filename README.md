@@ -19,7 +19,7 @@
      - [ ] Microsoft Azure Fundamentals Certification
      
 - 🌫️ Git Certified Specialist by GitKraken
--    - Certificate ID: qnjvjj3oqb
+     - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 
 - 🌫️ AWS Certified Cloud Practitioner by AWS Testing & Certification
      - VALD Q8BLTC9DM24E1JCD

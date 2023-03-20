@@ -30,9 +30,14 @@
 ![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
 
 
-### Shade Leaf Engineering & Consulting, LLC © 2018-2023
-### parent company of Spitfire Productions, LLC © 2014-2023
-### All rights reserved. 
+
+
+<p align="center">
+  <b>Shade Leaf Engineering & Consulting, LLC © 2018-2023</b><br>
+  <b>Spitfire Productions, LLC © 2014-2023</b><br>
+  <b>All rights reserved.</b><br>
+</p>
+
 <!--
 **kiddjsh/kiddjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

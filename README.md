@@ -9,7 +9,7 @@
      
      - EDI Software Application based on the Xamarin Language
      
-     - Front End Development of my existing game design projects
+     - Front End Development of my existing software application design projects
           - includes existing public github repositories,
           - and personal private repositories later making public
            

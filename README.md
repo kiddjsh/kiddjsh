@@ -14,7 +14,9 @@
           - [ ] includes existing public github repositories,
           - [ ] and personal private repositories later making public
            
-     - [ ] Unity Platform Design 
+     - [ ] Unity Platform Design & Unity Certified User Programmer
+     - [ ] AWS Solutions Architect
+     - [ ] Microsoft Azure Fundamentals Certification
      
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb

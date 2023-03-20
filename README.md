@@ -2,7 +2,7 @@
 ### I'm Joshua Kidder (user kiddjsh), you found my respositories
 
 - 👾 I do cool things with octocat
-- 🍂 I'm currently working on personal projects
+- 🍂 I'm currently working on personal projects, i.e.
      - Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
           - updating my exisiting warehouse inventory software application
           - updating my existing call center phone software application 

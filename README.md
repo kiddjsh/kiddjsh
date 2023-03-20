@@ -6,6 +6,7 @@
      - software application design for a neon sign & electronic board repairs / inventory
           - updating my exisiting warehouse inventory software application
           - updating my existing call center phone software application 
+          - 
       - edi software application program based on the xamarin language
       - front end development of game design projects i have already designed, including my o'hare crossword puzzle game
       - unity platform design 

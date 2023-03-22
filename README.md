@@ -17,7 +17,7 @@
      - [ ] Unity Platform Design & Unity Certified User Programmer
      - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
-     - [{: .alert .alert-success}] There are no new ongoing projects
+     - [X] There are no new ongoing projects
      
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb

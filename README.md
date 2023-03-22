@@ -18,7 +18,6 @@
      - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
 
-- 🟩 There are no new ongoing projects
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 

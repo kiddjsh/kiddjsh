@@ -17,7 +17,6 @@
      - [ ] Unity Platform Design & Unity Certified User Programmer
      - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
-     - [ ] OCJP Certification
 
 - 🟩 There are no new ongoing projects
 - 🌫️ Git Certified Specialist by GitKraken

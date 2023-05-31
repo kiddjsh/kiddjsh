@@ -27,9 +27,10 @@
 - 🌫️ Bachelor of Science in Computer Information Systems, Software Programming
      - Graduate APR 2021 from DeVry University
      - Magna Cum Laude 
+     
 - 💬 How to reach me:
      - https://www.kiddjsh.xyz 
-
+     
 ![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
 
 

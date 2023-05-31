@@ -46,7 +46,7 @@
 ---
 
 💬 How to reach me:
-     - https://www.kiddjsh.xyz 
+- https://www.kiddjsh.xyz 
     
 ---
 

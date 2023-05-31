@@ -2,7 +2,12 @@
 ### I'm Joshua Kidder (user kiddjsh), you found my respositories
 
 - 👾 I do cool things with octocat
-- 🍂 I'm currently working on personal projects, i.e.
+
+---
+
+🍂 Personal Projects: 
+
+- I'm currently working on personal projects, i.e.
      
      - [ ] Front End Development of my existing software application design projects
           - [ ] includes existing public github repositories,
@@ -19,6 +24,11 @@
           - [ ] updating my existing call center phone software application 
                - [ ] design & manufacture my own electronic board 
 
+---
+
+
+📃 Education & Certifications:
+
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 
@@ -29,16 +39,19 @@
      - Graduate APR 2021 from DeVry University
      - Magna Cum Laude 
      
-- 💬 How to reach me:
-     - https://www.kiddjsh.xyz 
-     
-![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
+---
 
+![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
 
 ---
 
+💬 How to reach me:
+     - https://www.kiddjsh.xyz 
+    
+---
 
-❄️ Language & Tools:
+
+❄️ Languages & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp; 
@@ -79,6 +92,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;       
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
 </div>
+
+                                                                                                                                                                                                             🐐
 <!--
 **kiddjsh/kiddjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

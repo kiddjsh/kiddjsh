@@ -39,9 +39,6 @@
      - Graduate APR 2021 from DeVry University
      - Magna Cum Laude 
      
----
-
-![myOctocat](https://github.com/kiddjsh/kiddjsh/blob/main/octocat-kiddjsh-avatar.jpg)
 
 ---
 

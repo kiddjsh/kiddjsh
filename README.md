@@ -16,6 +16,7 @@
      - [ ] EDI Software Application based on the Xamarin Language
            
      - [ ] Unity Platform Design & Unity Certified User Programmer
+     - [ ] AWS Architecting
      - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
 

@@ -15,9 +15,9 @@
 
      - [ ] EDI Software Application based on the Xamarin Language
            
-     - [ ] Unity Platform Design & Unity Certified User Programmer
      - [ ] AWS Architecting
-     - [ ] AWS Solutions Architect
+          - [ ] AWS Architeching Knowledge 
+          - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
 
      - [ ] Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory

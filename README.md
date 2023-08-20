@@ -15,7 +15,7 @@
 
      - [ ] EDI Software Application based on the Xamarin Language
            
-     - [ ] AWS Architecting
+     - [ ] AWS re/Start Architecting
           - [ ] AWS Architecting Knowledge 
           - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification

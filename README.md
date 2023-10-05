@@ -108,4 +108,6 @@ https://github.com/devicons/devicon/tree/master/icons
 
 ###### This account uses the App DCO which enforces the [Developer Certificate of Origin](https://developercertificate.org/) (DCO) on Pull Requests. It requires all commit messages to contain the Signed-off-by line with an email address that matches the commit author. The Developer Certificate of Origin (DCO) is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
 
+##### When connecting to GitHub via SSH, I generate and use EDCSA Elliptic Curve Algorithms with a passphrase. 
+
 

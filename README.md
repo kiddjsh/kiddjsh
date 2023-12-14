@@ -17,8 +17,7 @@
           - [ ] AWS Architecting Knowledge 
           - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
-     - ✅ Hacktoberfest 2023
-          - Hacktoberfest Level 4 Achievement 
+✅ Hacktoberfest 2023
 
 ---
 

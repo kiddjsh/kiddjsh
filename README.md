@@ -8,7 +8,9 @@
 🍂 Personal Projects: 
 
 - I'm currently working on personal projects, i.e.
-     
+
+     -  ✅ Hacktoberfest 2023
+       
      - [ ] Front End Development of my existing software application design projects
           - [ ] includes existing public github repositories,
           - [ ] and personal private repositories later making public
@@ -17,7 +19,7 @@
           - [ ] AWS Architecting Knowledge 
           - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
-     - ✅ Hacktoberfest 2023
+
 
 ---
 

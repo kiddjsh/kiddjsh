@@ -12,18 +12,11 @@
      - [ ] Front End Development of my existing software application design projects
           - [ ] includes existing public github repositories,
           - [ ] and personal private repositories later making public
-
-     - [ ] EDI Software Application based on the Xamarin Language
            
      - [ ] AWS re/Start Architecting
           - [ ] AWS Architecting Knowledge 
           - [ ] AWS Solutions Architect
      - [ ] Microsoft Azure Fundamentals Certification
-
-     - [ ] Software Application Design for a Neon Sign & Electronic Board Repairs / Inventory
-          - [ ] updating my exisiting warehouse inventory software application
-          - [ ] updating my existing call center phone software application 
-               - [ ] design & manufacture my own electronic board 
 
 ---
 

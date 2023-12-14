@@ -19,7 +19,7 @@
      - [ ] Microsoft Azure Fundamentals Certification
 ---
 
-✅ Hacktoberfest 2023
+-✅ Hacktoberfest 2023
 
 ---
 

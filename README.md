@@ -9,8 +9,8 @@
 
 - I'm currently working on personal projects, i.e.
 
-     -  ✅ AWS Certified Cloud Practitioner
      -  ✅ Hacktoberfest 2023
+     -  ✅ AWS Certified Cloud Practitioner
        
      - [ ] Front End Development of my existing software application design projects
           - [ ] includes existing public github repositories,

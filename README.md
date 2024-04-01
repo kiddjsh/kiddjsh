@@ -9,6 +9,7 @@
 
 - I'm currently working on personal projects, i.e.
 
+     -  ✅ Microsoft Foundational C# Developer Certification 
      -  ✅ Hacktoberfest 2023
      -  ✅ AWS Certified Cloud Practitioner
        

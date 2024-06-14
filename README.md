@@ -29,7 +29,7 @@
 📃 Education & Certifications:
 
 - 🌫️ Microsoft Foundational C# Developer Certification 
-     - Issued 27MAR2024 No Expiry Date 
+     - Issued 27MAR2024 
 - 🌫️ Git Certified Specialist by GitKraken
      - Certificate ID: qnjvjj3oqb
      - Issued 06DEC2022 No Expiry Date 

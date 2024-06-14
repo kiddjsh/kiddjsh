@@ -41,14 +41,6 @@
      - Magna Cum Laude 
      
 
----
-
-💬 How to reach me:
-- https://www.kiddjsh.xyz 
-    
----
-
-
 ❄️ Languages & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;     

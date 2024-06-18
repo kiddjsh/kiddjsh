@@ -74,8 +74,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;       
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" title="redhat" alt="redhat" width="40" height="40"/>&nbsp;     
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;          
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;       
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="fedora" width="40" height="40"/>&nbsp;                 
 </div>
 
 
